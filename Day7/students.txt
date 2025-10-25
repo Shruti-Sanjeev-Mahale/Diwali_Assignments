@@ -1,0 +1,10 @@
+2,Ishaan,IT,95.0,70.0
+4,Vikram,CS,95.0,95.0
+10,Arjun,IT,90.0,85.0
+7,Sanya,CS,88.0,91.0
+1,Aarav,CS,85.0,92.0
+9,Neha,CS,82.0,80.0
+6,Manish,ME,80.0,55.0
+3,Ananya,ECE,78.0,88.0
+8,Rohan,EE,67.0,74.0
+5,Priya,IT,60.0,65.0
